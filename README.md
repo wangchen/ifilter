@@ -11,3 +11,7 @@ The width and height can be positive or negative.
 - Negative - 'less than'
 
 The width and height are both optional. If nothing specified ifilter do nothing.
+
+## TODO
+
+- Add 'equals to' to width and height.
