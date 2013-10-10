@@ -8,7 +8,7 @@ Command line tool to filter image by dimensions
 
 The width and height could be:
 
-- `-1024` - **greater than** 1024 break
+- `-1024` - **greater than** 1024 pixels
 - `+1024` - **less than** 1024 pixels
 - `1024` - **equals to** 1024 pixels
 
