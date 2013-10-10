@@ -1,10 +1,8 @@
 /**
- * The Codes write by tom7@cs.cmu.edu
+ * The Codes wrote by tom7@cs.cmu.edu
  * I found it at http://carnage-melon.tom7.org/stuff/jpegsize.c
  */
- 
 #include <stdio.h>
-
 /* portions derived from IJG code */
 
 #define readbyte(a,b) do if(((a)=getc((b))) == EOF) return 0; while (0)
